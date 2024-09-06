@@ -1,7 +1,7 @@
 # Leetcode75
 
 This repository is dedicated to documenting my journey through the [Leetcode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/). I will be posting daily coding solutions and insights as I progress through the challenges.
-Although I started this journey on July 20, 2024, I am documenting it now so that I can review past learnings as I post.
+Although I started this journey on July 20, 2024, I am documenting it now so that I can review past learnings while solving new problems and posting previous solutions.
 
 ## Progress
 
