@@ -26,8 +26,8 @@ I will update this section regularly to track my progress:
 
 | Day | Problem Name | Status |
 | --- | ------------ | ------ |
-| 1   | Problem Title | ✅ Done |
-| 2   | Problem Title | ⏳ In Progress |
+| 1   | Merge Strings Alternately | ✅ Done |
+| 2   | Problem  | ⏳ In Progress |
 | ... | ...          | ...    |
 
 ## How to Use This Repo
