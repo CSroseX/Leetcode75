@@ -3,6 +3,16 @@
 This repository is dedicated to documenting my journey through the [Leetcode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/). I will be posting daily coding solutions and insights as I progress through the challenges.
 Although I started this journey on July 20, 2024, I am documenting it now so that I can review past learnings as I post.
 
+## Progress
+
+I will update this section regularly to track my progress:
+
+| Day | Problem Name | Status |
+| --- | ------------ | ------ |
+| 1   | Merge Strings Alternately | ✅ Done |
+| 2   | Problem  | ⏳ In Progress |
+| ... | ...          | ...    |
+
 ## About Leetcode 75
 
 Leetcode 75 is a structured study plan that covers essential coding concepts and problems. It is designed to help programmers improve their problem-solving skills, which is crucial for technical interviews.
@@ -20,15 +30,7 @@ Leetcode 75 is a structured study plan that covers essential coding concepts and
   - `solution.<ext>`: My code solution in the programming language I'm using.
   - `readme.md`: Notes and explanations about the problem and my approach.
   
-## Progress
 
-I will update this section regularly to track my progress:
-
-| Day | Problem Name | Status |
-| --- | ------------ | ------ |
-| 1   | Merge Strings Alternately | ✅ Done |
-| 2   | Problem  | ⏳ In Progress |
-| ... | ...          | ...    |
 
 ## How to Use This Repo
 
