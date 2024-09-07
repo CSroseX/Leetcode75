@@ -10,7 +10,7 @@ I will update this section regularly to track my progress:
 | Day | Problem Name | Status |
 | --- | ------------ | ------ |
 | 1   | Merge Strings Alternately | ✅ Done |
-| 2   | Problem  | ⏳ In Progress |
+| 2   | Greatest Common Divisor of Strings  | ✅ Done |
 | ... | ...          | ...    |
 
 ## About Leetcode 75
