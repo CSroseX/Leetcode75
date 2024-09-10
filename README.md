@@ -11,7 +11,7 @@ I will update this section regularly to track my progress:
 | --- | -------------------------------------------------------- | --------- | ---------- |
 | 1   | Merge Strings Alternately                                | ✅ Done   | Easy       |
 | 2   | Greatest Common Divisor of Strings                       | ✅ Done   | Easy       |
-| 3   | Kids With the Greatest Number of Candies                 | Not Started | Easy     |
+| 3   | Kids With the Greatest Number of Candies                 | ✅ Done   | Easy       |
 | 4   | Can Place Flowers                                        | Not Started | Easy     |
 | 5   | Reverse Vowels of a String                               | Not Started | Easy     |
 | 6   | Reverse Words in a String                                | Not Started | Medium    |
