@@ -111,4 +111,4 @@ Feel free to browse through the code and notes to learn from my solutions and th
 
 ## Connect
 
-If you have any feedback or suggestions, feel free to raise an issue or reach out!
+If you have any feedback or suggestions, feel free to raise an issue or reach me out throught chitransh.saxena.contact@gmail.com !
