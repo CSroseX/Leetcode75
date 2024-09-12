@@ -13,7 +13,7 @@ I will update this section regularly to track my revision progress:
 | 2   | Greatest Common Divisor of Strings                       | ✅ Done   | Easy       |
 | 3   | Kids With the Greatest Number of Candies                 | ✅ Done   | Easy       |
 | 4   | Can Place Flowers                                        | ✅ Done | Easy     |
-| 5   | Reverse Vowels of a String                               | Not Started | Easy     |
+| 5   | Reverse Vowels of a String                               | ✅ Done  | Easy     |
 | 6   | Reverse Words in a String                                | Not Started | Medium    |
 | 7   | Product of Array Except Self                             | Not Started | Medium    |
 | 8   | Increasing Triplet Subsequence                           | Not Started | Medium    |
