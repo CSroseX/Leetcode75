@@ -16,7 +16,7 @@ I will update this section regularly to track my revision progress:
 | 5   | Reverse Vowels of a String                               | ✅ Done  | Easy     |
 | 6   | Reverse Words in a String                                | ✅ Done | Medium    |
 | 7   | Product of Array Except Self                             | ✅ Done | Medium    |
-| 8   | Increasing Triplet Subsequence                           | Not Started | Medium    |
+| 8   | Increasing Triplet Subsequence                           | ✅ Done | Medium    |
 | 9   | String Compression                                       | Not Started | Medium    |
 | 10  | Move Zeroes                                              | Not Started | Easy      |
 | 11  | Is Subsequence                                           | Not Started | Easy      |
