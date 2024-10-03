@@ -18,7 +18,7 @@ I will update this section regularly to track my revision progress:
 | 7   | Product of Array Except Self                             | ✅ Done | Medium    |
 | 8   | Increasing Triplet Subsequence                           | ✅ Done | Medium    |
 | 9   | String Compression                                       | ✅ Done | Medium    |
-| 10  | Move Zeroes                                              | Not Started | Easy      |
+| 10  | Move Zeroes                                              | ✅ Done | Easy      |
 | 11  | Is Subsequence                                           | Not Started | Easy      |
 | 12  | Container With Most Water                                | Not Started | Medium    |
 | 13  | Max Number of K-Sum Pairs                                | Not Started | Medium    |
