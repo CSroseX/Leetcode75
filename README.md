@@ -19,7 +19,7 @@ I will update this section regularly to track my revision progress:
 | 8   | Increasing Triplet Subsequence                           | ✅ Done | Medium    |
 | 9   | String Compression                                       | ✅ Done | Medium    |
 | 10  | Move Zeroes                                              | ✅ Done | Easy      |
-| 11  | Is Subsequence                                           | Not Started | Easy      |
+| 11  | Is Subsequence                                           | ✅ Done | Easy      |
 | 12  | Container With Most Water                                | Not Started | Medium    |
 | 13  | Max Number of K-Sum Pairs                                | Not Started | Medium    |
 | 14  | Maximum Average Subarray I                               | Not Started | Easy      |
